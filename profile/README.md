@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img src="profile\Blue Futuristic Technology Presentation.png" alt="">
+  <img src="\Blue Futuristic Technology Presentation.png" alt="">
 </p>
 
 <br>

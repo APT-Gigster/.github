@@ -1,13 +1,13 @@
 # 💸 Gigster
 
-# 🏆 Contribute_  Grow_  Earn_
+# 🏆 Contribute* Grow* Earn\_
 
 ##
 
 <br>
 
 <p align="center">
-  <img src="Blue Futuristic Technology Presentation.png" alt="">
+  <img src="profile\Blue Futuristic Technology Presentation.png" alt="">
 </p>
 
 <br>
@@ -16,13 +16,11 @@
 
 Web3 brands/projects want to give out bounties/gigs for various tasks like event hosting, content writing, opportunities and technical bounties & along with Web3 community members want to work on bounties/gigs to earn and contribute to the ecosystem.
 
-
 ## 💡 Idea - solving real world problems
 
 - One stop solution on the Aptos blockchain that connects projects with bounty hunters within web3 community.
 
-- A unified platform where projects can post and manage freelancing gigs and bounties, with secure P2P fund transfer using aptos network. Task verification and reward distribution ensure transparency and efficiency. 
-
+- A unified platform where projects can post and manage freelancing gigs and bounties, with secure P2P fund transfer using aptos network. Task verification and reward distribution ensure transparency and efficiency.
 
 ## Merchant-side Application Blueprint
 
@@ -36,12 +34,11 @@ Web3 brands/projects want to give out bounties/gigs for various tasks like event
   <img src="flow-diagrams\user-side architecture.png">
 </p>
 
-
 ## Panora SDK integrationn is live
+
 - Swap your earned APT into any coin you want using Panora Swap
 
 https://gigster-frontend.vercel.app/swap
-
 
 ## ⭐ Features
 
@@ -49,8 +46,7 @@ https://gigster-frontend.vercel.app/swap
 - Aptos Keyless Accounts ( makes new user onboarding very easy)
 - Speedy and secure payments
 - Unique reputation of the users using blockchain
-- MultiSig Wallet Integration 
-
+- MultiSig Wallet Integration
 
 ## Installation
 
@@ -96,13 +92,13 @@ node server
 
 ## 🌠 Technology Stack
 
-| Technology  | Purpose                                            |
-| ----------- | -------------------------------------------------- |
-| Next.js     | Frontend framework for web application development |
-| Aptos Wallet Adapter     | Account, Keyless connection, user login                                |
-| Node JS | Backend APIs, Data Handling and SDK integrations ( Panora Swap)                                 |
-| Move    | Smart contract development language for Aptos |
-| Mongo DB      | Cloud Database               |
+| Technology           | Purpose                                                         |
+| -------------------- | --------------------------------------------------------------- |
+| Next.js              | Frontend framework for web application development              |
+| Aptos Wallet Adapter | Account, Keyless connection, user login                         |
+| Node JS              | Backend APIs, Data Handling and SDK integrations ( Panora Swap) |
+| Move                 | Smart contract development language for Aptos                   |
+| Mongo DB             | Cloud Database                                                  |
 
 ## Contracts 📝
 
@@ -129,15 +125,12 @@ node server
 
 <br>
 
-
 2. **_Krishn Panchal_**
 <h5 align="left">Full Stack Dev</h5>
 <p align="left">
 <a href="https://x.com/krishnpanchal14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaibhav2641" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/krishn-panchal-665388201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maroti patre" height="30" width="40" /></a>
 </p>
-
-
 
 ## Presentation Link
 
@@ -146,8 +139,6 @@ https://www.canva.com/design/DAGPEIDbUys/iSPNYNpfPGFBJUTh9ZuRZQ/edit?utm_content
 ## Live Webiste
 
 https://gigster-frontend.vercel.app/
-
-
 
 ## Social Visibility
 

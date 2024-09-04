@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img src="\Blue Futuristic Technology Presentation.png" alt="">
+  <img src="Blue Futuristic Technology Presentation.png" alt="">
 </p>
 
 <br>
@@ -22,16 +22,16 @@ Web3 brands/projects want to give out bounties/gigs for various tasks like event
 
 - A unified platform where projects can post and manage freelancing gigs and bounties, with secure P2P fund transfer using aptos network. Task verification and reward distribution ensure transparency and efficiency.
 
-## Merchant-side Application Blueprint
+## User(Bounty Hunter/Dev/Non-tech) Side Application Blueprint
 
 <p align="center">
-  <img src="flow-diagrams\merchant-side architecture.png">
+  <img src="bounty hunter user-flow.png">
 </p>
 
-## Client side Blueprint
+## Client/Comapny side Blueprint
 
 <p align="center">
-  <img src="flow-diagrams\user-side architecture.png">
+  <img src="sponsor user flow.png">
 </p>
 
 ## Panora SDK integrationn is live

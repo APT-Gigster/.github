@@ -1,6 +1,6 @@
 # 💸 Gigster
 
-# 🏆 Contribute* Grow* Earn\_
+# 🏆 Contribute_ Grow_ Earn\_
 
 ##
 
@@ -135,6 +135,10 @@ node server
 ## Presentation Link
 
 https://www.canva.com/design/DAGPEIDbUys/iSPNYNpfPGFBJUTh9ZuRZQ/edit?utm_content=DAGPEIDbUys&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+## MVP DOC
+
+[https://docs.google.com/document/d/1FbDQ37Wj7jSh93aLUoKaWxLYfLbtUfWhgT9y8IumZFs/edit](https://docs.google.com/document/d/1FbDQ37Wj7jSh93aLUoKaWxLYfLbtUfWhgT9y8IumZFs/edit?usp=sharing)
 
 ## Live Webiste
 
